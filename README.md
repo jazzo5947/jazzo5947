@@ -1,7 +1,7 @@
 ### Hi There! Please call me Jazzo 🙂
 
 [Software Developer]
-- I'm currently working on HealthCare Data System and Web projects for PlanitHealthcare as a junior software developer (since 21.05~)
+- I'm currently working for PlanitHealthcare as a junior software developer (since 21.05~)
 
 [Product Manager]
 - I worked for KB bank as a freelancer web product manager  (18.09~19.02, 6 months)
