@@ -6,7 +6,7 @@ I am Hyunbin Rebeca Lee, using Jazzo as my nickname 🙂
 # :bookmark_tabs: Career
 
 ## Software Developer
-- I'm currently working for PlanitHealthcare as a junior software developer (since 21.05~)
+- I'm currently working for PlanitHealthcare as a junior front-end developer (since 21.05~)
 
 ## Product Manager
 - I worked for KB bank as a freelancer web product manager  (18.09~19.02, 6 months)
